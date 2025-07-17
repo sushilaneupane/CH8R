@@ -150,6 +150,11 @@ animation: flipInY 1s ease-out forwards;
   gap: 20px;
   padding: 40px 0 60px;
 }
+.grid-item p {
+  text-align: justify;   
+  text-justify: inter-word;
+  /* margin: 0 0 16px 0;     */
+}
 
 .grid-item img {
   width: 100%;
